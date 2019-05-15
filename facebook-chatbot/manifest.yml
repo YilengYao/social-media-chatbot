@@ -1,0 +1,4 @@
+---
+applications:
+ - name: Chatbot-Testing-V4
+   memory: 128M

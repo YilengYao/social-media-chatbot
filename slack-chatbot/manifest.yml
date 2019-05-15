@@ -1,0 +1,4 @@
+---
+applications:
+ - name: Slackbot-Testing-V15
+   memory: 128M
